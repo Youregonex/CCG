@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcc72bd0e95f24ac49258f1f03cd394a, type: 3}
+  m_Name: I._.I
+  m_EditorClassIdentifier: 
+  title: ._.
+  cardSprite: {fileID: 21300000, guid: 004637cbd8f0940edbd97984b8119209, type: 3}
+  type: D.E.D
+  description: D.E.D
+  cost: 1
+  cardPrefab: {fileID: 6314752896653064846, guid: 20c532471e52540c4b2a9ab352fbb9f2,
+    type: 3}
+  resourceRequired: 0
+  health: 3
+  attack: 2
+  movement: 5
+  unitPrefab: {fileID: 8073505443993199621, guid: d026a86fe8b5142feaf72612a99b542c,
+    type: 3}
+  unitSprite: {fileID: 21300136, guid: c3a40e1c46727b94e959990527f8e7fa, type: 3}
+  attackRange: 1
+  damageType: 0
+  attacksPerTurn: 1
+  unitAnimController: {fileID: 0}
+  statusEffects: []
